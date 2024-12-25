@@ -1,0 +1,30 @@
+
+
+#nav{
+    background-color: blueviolet;
+    height: 40px;
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+    /* text-align: center; */
+    
+}
+#nav>a{
+    color: white;
+    margin: auto;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+#nav>a:hover{
+    color: rgb(213, 75, 103);
+}
+#footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    background-color: blueviolet;
+    /* font-size: 20px; */
+    height: 40px;
+    text-align: center;   
+}

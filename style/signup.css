@@ -1,0 +1,17 @@
+#form{
+    width: 45%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#form > input {
+    height: 20px;
+    
+}
+#form-div > h3{
+    text-align: center;
+}
+select{
+    height: 20px;
+}
